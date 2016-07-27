@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-07-27T04:40:15.050Z'
+datePublished: '2016-07-27T04:41:33.719Z'
 author: []
-dateModified: '2016-07-18T05:54:04.150Z'
+dateModified: '2016-07-27T04:41:33.396Z'
 title: ''
 description: HAKLJDFLKJSDFLKJSDLKJ kJAF LKJF LKDSFJSDF
-starred: false
 sourcePath: _posts/2016-07-27-hakljdflkjsdflkjsdlkj-kjaf-lkjf-lkdsfjsdf.md
-inFeed: true
+publisher: {}
+via: {}
 hasPage: true
-inNav: false
+starred: false
 url: hakljdflkjsdflkjsdlkj-kjaf-lkjf-lkdsfjsdf/index.html
 _context: 'http://schema.org'
 _type: Article
