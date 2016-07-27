@@ -18,7 +18,7 @@ navigation:
     type: content
 title: >-
   Incidents should be classified as they are recorded, Examples of incidents by
-  classification are:<br><br>Application<br>service not available<br>data
+  classification are:<br>Application<br>service not available<br>data
   issue<br>application bug<br>Report not coming up<br>Excel not
   downloading<br>disk-usage threshold exceeded<br>Hardware<br>
 description: adsf
