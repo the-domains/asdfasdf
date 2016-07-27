@@ -16,9 +16,5 @@ navigation:
   - id: 4365df1b-ffe6-4f95-be37-59550c2f66dc
     name: saw
     type: content
-title: >-
-  Incidents should be classified as they are recorded, Examples of incidents by
-  classification are:<br>Application<br>service not available<br>data
-  issue<br>application bug<br>Report not coming up<br>Excel not
-  downloading<br>disk-usage threshold exceeded<br>Hardware<br>
+title: ''
 description: adsf
