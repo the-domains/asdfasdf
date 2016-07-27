@@ -1,4 +1,3 @@
-layout_spectrum: 0.8835618675220758
 typography_spectrum: 0.6731315786018968
 color:
   brandStrength: 0.7088345575612038
@@ -11,5 +10,10 @@ color:
     - '#29D9C2'
     - '#BDF271'
     - '#FFFFA6'
+layout_spectrum: 0.8835618675220758
 name: asdfasdf
+navigation:
+  - id: 4365df1b-ffe6-4f95-be37-59550c2f66dc
+    name: saw
+    type: content
 title: Join tse evolution
