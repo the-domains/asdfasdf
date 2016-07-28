@@ -24,5 +24,8 @@ navigation:
   - name: asdfasdf
     url: 'http://www.google.de'
     type: external
+  - name: asdf
+    id: 865b0e4a-7e80-44da-a9d7-7ef0b961c9f8
+    type: content
 title: undddined
 description: undefined
