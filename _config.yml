@@ -15,14 +15,14 @@ color:
 layout_spectrum: 0.8835618675220758
 name: 'null'
 navigation:
+  - name: 'Best of CH 2015: Instagram'
+    id: 66aa1986-c9ec-4556-9239-8c9177fb4168
+    type: content
   - name: saw
     id: 4365df1b-ffe6-4f95-be37-59550c2f66dc
     type: content
   - name: asdfasdf
     url: 'http://www.google.de'
     type: external
-  - name: 'Best of CH 2015: Instagram'
-    id: 66aa1986-c9ec-4556-9239-8c9177fb4168
-    type: content
 title: undeddfined
 description: undefined
