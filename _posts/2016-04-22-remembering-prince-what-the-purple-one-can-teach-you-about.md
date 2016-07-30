@@ -37,7 +37,7 @@ author:
   - name: Linda Lacina
     url: 'https://www.entrepreneur.com/author/linda-lacina'
     avatar: {}
-dateModified: '2016-07-16T03:51:17.740Z'
+dateModified: '2016-07-16T03:51:18.384Z'
 title: 'Remembering Prince: What The Purple One Can Teach You About Creativity'
 app_links: []
 publisher:
