@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-30T03:32:17.188Z'
+datePublished: '2016-07-30T03:32:17.217Z'
 sourcePath: _posts/2016-04-16-drinks-smoked-manhattan.md
 inFeed: true
 isBasedOnUrl: 'http://wildernesscollective.com/drinks-smoked-manhattan/'
@@ -20,7 +20,7 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-07-16T03:50:21.524Z'
+dateModified: '2016-07-16T03:50:21.920Z'
 title: 'Drinks: Smoked Manhattan'
 app_links: []
 publisher:
@@ -34,7 +34,7 @@ description: >-
   best thing is a fire in a flask. Here's the recipe for the mixologist in you.
 inLanguage: en
 inNav: false
-starred: true
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
