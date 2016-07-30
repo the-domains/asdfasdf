@@ -17,7 +17,7 @@ keywords:
   - brand
 related: []
 author: []
-dateModified: '2016-07-16T03:50:49.977Z'
+dateModified: '2016-07-16T03:50:50.349Z'
 title: 'Interview: Artist Ryan McGinness on Designing for Hennessy'
 app_links: []
 publisher:
