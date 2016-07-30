@@ -1,66 +1,47 @@
 ---
-id: 66aa1986-c9ec-4556-9239-8c9177fb4168
+id: 7a53608a-396e-4d5b-9943-a68fdcc6e9db
 metadata:
-  datePublished: '2016-07-27T06:53:17.589Z'
-  sourcePath: _posts/2016-04-16-best-of-ch-2015-instagram.md
-  isBasedOnUrl: 'http://www.coolhunting.com/culture/best-of-ch-2015-instagram'
-  hasPage: true
-  author: []
-  via: {}
-  metadata:
-    id: 7a53608a-396e-4d5b-9943-a68fdcc6e9db
-    metadata:
-      datePublished: '2016-07-24T21:30:17.586Z'
-      sourcePath: _posts/2016-04-16-best-of-ch-2015-instagram.md
-      inFeed: true
-      isBasedOnUrl: 'http://www.coolhunting.com/culture/best-of-ch-2015-instagram'
-      hasPage: false
-      keywords:
-        - art
-        - artist
-        - futurecraft
-        - zaha
-        - covent
-        - hadid
-        - leica
-        - g500
-        - tillon
-        - biennale
-      related: []
-      author: []
-      via: {}
-      '@context': 'http://schema.org'
-      dateModified: '2016-07-24T21:30:17.586Z'
-      title: 'Best of CH 2015: Instagram'
-      '@type': MediaObject
-      app_links: []
-      publisher:
-        url: 'http://www.coolhunting.com'
-        name: Cool Hunting
-        favicon: 'http://assets.coolhunting.com/favicon.ico'
-        domain: www.coolhunting.com
-      description: >-
-        Four and a half years ago we joined Instagram and have posted over 2,500
-        images since. More than 99% of the photographs we share, we ourselves
-        have taken, and that's something we're quite proud of.
-      inLanguage: en
-      inNav: false
-    dateModified: '2016-07-24T21:41:22.441Z'
-  dateModified: '2016-07-27T06:53:17.589Z'
-  title: 'Best of CH 2015: Instagram'
   id: 7a53608a-396e-4d5b-9943-a68fdcc6e9db
-  publisher:
-    url: 'http://www.coolhunting.com'
-    name: Cool Hunting
-    favicon: 'http://assets.coolhunting.com/favicon.ico'
-    domain: www.coolhunting.com
-  description: >-
-    Four and a half years ago we joined Instagram and have posted over 2,500
-    images since. More than 99% of the photographs we share, we ourselves have
-    taken, and that's something we're quite proud of.
-dateModified: '2016-07-28T00:26:28.782Z'
+  metadata:
+    datePublished: '2016-07-24T21:30:17.586Z'
+    sourcePath: _posts/2016-04-16-best-of-ch-2015-instagram.md
+    inFeed: true
+    isBasedOnUrl: 'http://www.coolhunting.com/culture/best-of-ch-2015-instagram'
+    hasPage: false
+    keywords:
+      - art
+      - artist
+      - futurecraft
+      - zaha
+      - covent
+      - hadid
+      - leica
+      - g500
+      - tillon
+      - biennale
+    related: []
+    author: []
+    via: {}
+    '@context': 'http://schema.org'
+    dateModified: '2016-07-24T21:30:17.586Z'
+    title: 'Best of CH 2015: Instagram'
+    '@type': MediaObject
+    app_links: []
+    publisher:
+      url: 'http://www.coolhunting.com'
+      name: Cool Hunting
+      favicon: 'http://assets.coolhunting.com/favicon.ico'
+      domain: www.coolhunting.com
+    description: >-
+      Four and a half years ago we joined Instagram and have posted over 2,500
+      images since. More than 99% of the photographs we share, we ourselves have
+      taken, and that's something we're quite proud of.
+    inLanguage: en
+    inNav: false
+  dateModified: '2016-07-24T21:41:22.441Z'
+dateModified: '2016-07-27T00:58:12.942Z'
 title: 'Best of CH 2015: Instagram'
-datePublished: '2016-07-28T00:26:29.530Z'
+datePublished: '2016-07-30T03:32:17.170Z'
 author: []
 hasPage: true
 description: >-
@@ -73,8 +54,8 @@ publisher:
   favicon: 'http://assets.coolhunting.com/favicon.ico'
   domain: www.coolhunting.com
 via: {}
-starred: false
 sourcePath: _posts/2016-04-16-best-of-ch-2015-instagram.md
+starred: false
 url: best-of-ch-2015-instagram/index.html
 _type: MediaObject
 
