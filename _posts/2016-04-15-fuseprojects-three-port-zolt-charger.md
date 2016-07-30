@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-30T03:33:00.193Z'
+datePublished: '2016-07-30T03:33:00.744Z'
 sourcePath: _posts/2016-04-15-fuseprojects-three-port-zolt-charger.md
 inFeed: true
 isBasedOnUrl: 'http://www.coolhunting.com/tech/yves-behar-simultaneous-laptop-charger-zolt'
@@ -17,7 +17,7 @@ keywords:
   - usbs
 related: []
 author: []
-dateModified: '2016-07-16T03:50:48.822Z'
+dateModified: '2016-07-16T03:50:53.320Z'
 title: Fuseproject's Three-Port Zolt Charger
 app_links: []
 publisher:
