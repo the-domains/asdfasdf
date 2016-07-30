@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-30T03:32:19.621Z'
+datePublished: '2016-07-30T03:32:19.606Z'
 sourcePath: _posts/2016-04-16-interview-artist-ryan-mcginness-on-designing-for-hennessy.md
 inFeed: true
 isBasedOnUrl: 'http://www.coolhunting.com/design/ryan-mcginness-hennessy-bottle'
@@ -17,7 +17,7 @@ keywords:
   - brand
 related: []
 author: []
-dateModified: '2016-07-16T03:50:41.134Z'
+dateModified: '2016-07-16T03:50:41.525Z'
 title: 'Interview: Artist Ryan McGinness on Designing for Hennessy'
 app_links: []
 publisher:
@@ -33,7 +33,7 @@ description: >-
   designing a special limited edition bottle for luxury cognac brand Hennessy.
 inLanguage: en
 inNav: false
-starred: true
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
