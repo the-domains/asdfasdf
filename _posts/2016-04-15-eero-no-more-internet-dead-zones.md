@@ -20,7 +20,7 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-07-16T03:51:07.238Z'
+dateModified: '2016-07-16T03:51:07.513Z'
 title: 'eero: No More Internet Dead Zones'
 app_links: []
 publisher:
