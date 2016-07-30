@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-30T03:32:17.230Z'
+datePublished: '2016-07-30T03:32:17.196Z'
 sourcePath: >-
   _posts/2016-04-16-thinking-inside-the-box-prepd-reinvents-the-lunchbox-or-life.md
 inFeed: true
@@ -22,7 +22,7 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-07-16T03:55:01.111Z'
+dateModified: '2016-07-16T03:50:21.521Z'
 title: 'Thinking inside the box: Prepd reinvents the lunchbox.'
 app_links: []
 publisher:
