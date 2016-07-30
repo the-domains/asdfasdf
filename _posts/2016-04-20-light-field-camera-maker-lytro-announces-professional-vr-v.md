@@ -22,7 +22,7 @@ author:
   - name: Adi Robertson
     url: 'http://www.theverge.com/users/adirobertson'
     avatar: {}
-dateModified: '2016-07-16T03:51:15.054Z'
+dateModified: '2016-07-16T03:51:19.372Z'
 title: '''Light field'' camera maker Lytro announces professional VR video rig'
 app_links: []
 publisher:
