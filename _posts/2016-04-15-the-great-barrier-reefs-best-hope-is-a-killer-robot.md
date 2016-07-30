@@ -1,10 +1,9 @@
 ---
-datePublished: '2016-07-30T03:32:41.922Z'
-sourcePath: _posts/2016-04-15-the-great-barrier-reefs-best-hope-is-a-killer-robot.md
 inFeed: true
-isBasedOnUrl: 'http://www.wired.com/2016/04/starfish-killer-robot/'
-authors: []
 hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.wired.com/2016/04/starfish-killer-robot/'
+inLanguage: en
 keywords:
   - zombies
   - cotsbot
@@ -16,26 +15,27 @@ keywords:
   - injects
   - crown-of-thorns
   - stars-autonomously
-related: []
-author:
-  - name: ''
-    url: ''
-dateModified: '2016-07-16T03:51:12.993Z'
-title: The Great Barrier Reef's Best Hope Is a Killer Robot
-app_links: []
-publisher:
-  name: WIRED
-  domain: www.wired.com
-  url: 'http://www.wired.com'
-  favicon: 'http://www.wired.com/wp-content/themes/Phoenix/assets/images/favicon.ico'
 description: >-
   Crown-of-thorns starfish are the zombies of the sea. They won't die even if
   you cut them in half. To kill one, you must dismember it completely-or inject
   it with poisonous (to them) bile salts. Instead of braaains, these zombies
   munch coral, and off the coast of Australia, infestations of the beasts are
   damaging the Great Barrier Reef at an alarming rate.
-inLanguage: en
-inNav: false
+datePublished: '2016-07-30T03:32:41.922Z'
+dateModified: '2016-07-13T21:55:12.858Z'
+sourcePath: _posts/2016-04-15-the-great-barrier-reefs-best-hope-is-a-killer-robot.md
+related: []
+author:
+  - name: ''
+    url: ''
+title: The Great Barrier Reef's Best Hope Is a Killer Robot
+app_links: []
+authors: []
+publisher:
+  name: WIRED
+  domain: www.wired.com
+  url: 'http://www.wired.com'
+  favicon: 'http://www.wired.com/wp-content/themes/Phoenix/assets/images/favicon.ico'
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
