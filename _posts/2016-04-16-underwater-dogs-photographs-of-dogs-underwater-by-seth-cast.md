@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-30T03:32:42.668Z'
+datePublished: '2016-07-30T03:32:42.673Z'
 sourcePath: >-
   _posts/2016-04-16-underwater-dogs-photographs-of-dogs-underwater-by-seth-cast.md
 inFeed: true
@@ -19,7 +19,7 @@ keywords:
   - water
 related: []
 author: []
-dateModified: '2016-07-16T03:51:16.927Z'
+dateModified: '2016-07-16T03:51:17.200Z'
 title: 'Underwater Dogs: photographs of dogs underwater by Seth Casteel'
 app_links: []
 publisher:
