@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-30T03:32:19.646Z'
+datePublished: '2016-07-30T03:32:18.898Z'
 sourcePath: _posts/2016-04-15-eero-no-more-internet-dead-zones.md
 inFeed: true
 isBasedOnUrl: 'http://www.coolhunting.com/tech/eero-wifi-that-works'
@@ -20,7 +20,7 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-07-16T03:50:43.218Z'
+dateModified: '2016-07-16T03:50:32.960Z'
 title: 'eero: No More Internet Dead Zones'
 app_links: []
 publisher:
