@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-30T03:32:18.931Z'
+datePublished: '2016-07-30T03:32:18.932Z'
 sourcePath: >-
   _posts/2016-04-27-spotifys-design-lead-on-why-side-projects-should-be-stupid.md
 inFeed: true
@@ -31,7 +31,7 @@ related:
       http://s3.amazonaws.com/marquee-test-akiaisur2rgicbmpehea/8A0V9qL9TTic0g9CdcXm_Dave%20Hero.jpg
     thumbnail_width: 640
 author: []
-dateModified: '2016-07-16T03:50:38.603Z'
+dateModified: '2016-07-16T03:50:39.738Z'
 title: Spotify's Design Lead on Why Side Projects Should Be Stupid
 app_links: []
 publisher:
