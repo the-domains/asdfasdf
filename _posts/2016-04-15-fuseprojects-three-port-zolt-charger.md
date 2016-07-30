@@ -17,7 +17,7 @@ keywords:
   - usbs
 related: []
 author: []
-dateModified: '2016-07-16T03:50:57.136Z'
+dateModified: '2016-07-16T03:50:57.516Z'
 title: Fuseproject's Three-Port Zolt Charger
 app_links: []
 publisher:
