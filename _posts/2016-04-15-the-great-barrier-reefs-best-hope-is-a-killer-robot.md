@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-30T03:32:32.914Z'
+datePublished: '2016-07-30T03:32:32.927Z'
 sourcePath: _posts/2016-04-15-the-great-barrier-reefs-best-hope-is-a-killer-robot.md
 inFeed: true
 isBasedOnUrl: 'http://www.wired.com/2016/04/starfish-killer-robot/'
@@ -20,7 +20,7 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-07-16T03:50:58.966Z'
+dateModified: '2016-07-16T03:50:59.131Z'
 title: The Great Barrier Reef's Best Hope Is a Killer Robot
 app_links: []
 publisher:
