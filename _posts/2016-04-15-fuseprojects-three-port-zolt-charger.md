@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-30T03:32:17.280Z'
+datePublished: '2016-07-30T03:32:17.961Z'
 sourcePath: _posts/2016-04-15-fuseprojects-three-port-zolt-charger.md
 inFeed: true
 isBasedOnUrl: 'http://www.coolhunting.com/tech/yves-behar-simultaneous-laptop-charger-zolt'
@@ -17,7 +17,7 @@ keywords:
   - usbs
 related: []
 author: []
-dateModified: '2016-07-16T03:50:25.804Z'
+dateModified: '2016-07-16T03:50:29.939Z'
 title: Fuseproject's Three-Port Zolt Charger
 app_links: []
 publisher:
@@ -33,7 +33,7 @@ description: >-
   phone-charger, you name it) all at once-while only using one power outlet.
 inLanguage: en
 inNav: false
-starred: true
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
