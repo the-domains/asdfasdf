@@ -23,9 +23,6 @@ navigation:
   - name: UPSIDdddEDOWN
     id: 66aa1986-c9ec-4556-9239-8c9177fb4168
     type: content
-  - name: cccc
-    url: 'http://www.google.de'
-    type: external
   - name: UPSIDdddEDOWN
     id: 865b0e4a-7e80-44da-a9d7-7ef0b961c9f8
     type: content
