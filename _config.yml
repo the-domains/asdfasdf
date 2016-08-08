@@ -13,6 +13,8 @@ color:
     - '#BDF271'
     - '#FFFFA6'
 layout_spectrum: 0.8835618675220758
+author:
+  name: ddddd
 name: 'null'
 navigation:
   - name: UPSIDdddEDOWN
