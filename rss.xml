@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[undddined]]></title>
-        <description><![CDATA[undddined]]></description>
+        <title><![CDATA[Mjrio]]></title>
+        <description><![CDATA[Mjrio]]></description>
         <link>http://custom.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 19:20:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2016 16:56:23 GMT</lastBuildDate>
         <atom:link href="http://custom.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[asdfasdfasf]]></title>
@@ -32,13 +32,6 @@
             <description><![CDATA[<article><h1>'Light field' camera maker Lytro announces professional VR video rig</h1><p>Camera maker Lytro drew our attention three years ago with what it called "light field" photography. Instead of focusing at a specific depth, its camera would capture everything in range of its finder, so you could do things like pick a focus after taking the picture.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/656906e37edfa8831a9d2951c445a7cf45513621.jpg"></article>]]></description>
             <link>http://www.theverge.com/2015/11/5/9671564/lytro-immerge-light-field-vr-video-camera</link>
             <guid isPermaLink="false">c7f22eb3-0f8e-4bf1-8873-a8d06fcd9541</guid>
-            <pubDate>Sat, 30 Jul 2016 03:32:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Great Barrier Reef's Best Hope Is a Killer Robot]]></title>
-            <description><![CDATA[<article><h1>The Great Barrier Reef's Best Hope Is a Killer Robot</h1><p>Crown-of-thorns starfish are the zombies of the sea. They won't die even if you cut them in half. To kill one, you must dismember it completely-or inject it with poisonous (to them) bile salts. Instead of braaains, these zombies munch coral, and off the coast of Australia, infestations of the beasts are damaging the Great Barrier Reef at an alarming rate.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/df2ff642b24f92833cf4da9277a687034f647587.jpg"></article>]]></description>
-            <link>http://www.wired.com/2016/04/starfish-killer-robot/</link>
-            <guid isPermaLink="false">553cefd1-ca1b-429d-8855-dbcee971b35a</guid>
             <pubDate>Sat, 30 Jul 2016 03:32:17 GMT</pubDate>
         </item>
         <item>
