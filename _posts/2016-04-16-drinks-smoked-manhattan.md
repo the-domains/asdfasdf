@@ -1,10 +1,9 @@
 ---
-datePublished: '2016-07-30T03:32:17.217Z'
+datePublished: '2016-08-16T08:40:40.223Z'
 sourcePath: _posts/2016-04-16-drinks-smoked-manhattan.md
 inFeed: true
-isBasedOnUrl: 'http://wildernesscollective.com/drinks-smoked-manhattan/'
 authors: []
-hasPage: false
+hasPage: true
 keywords:
   - smoke
   - flask
@@ -20,7 +19,7 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-07-16T03:50:21.913Z'
+dateModified: '2016-08-16T08:40:39.620Z'
 title: 'Drinks: Smoked Manhattan'
 app_links: []
 publisher:
@@ -34,7 +33,9 @@ description: >-
   best thing is a fire in a flask. Here's the recipe for the mixologist in you.
 inLanguage: en
 inNav: false
+via: {}
 starred: false
+url: drinks-smoked-manhattan/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
