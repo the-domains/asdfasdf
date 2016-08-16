@@ -1,10 +1,8 @@
 ---
-datePublished: '2016-07-30T03:32:17.217Z'
+datePublished: '2016-08-16T08:50:58.359Z'
 sourcePath: _posts/2016-04-16-why-sleep-is-so-important-for-overall-health.md
 inFeed: true
-isBasedOnUrl: >-
-  http://www.huffingtonpost.com/sonimacom/why-sleep-is-so-important-for-overall-health_b_9676412.html?utm_hp_ref=healthy-living
-hasPage: false
+hasPage: true
 keywords:
   - sleeping
   - meditation
@@ -18,7 +16,7 @@ keywords:
   - overall
 related: []
 author: []
-dateModified: '2016-07-16T03:50:22.665Z'
+dateModified: '2016-08-16T08:50:57.701Z'
 title: Why Sleep Is So Important For Overall Health
 app_links:
   - url: 'huffpostnews:///?editionID=us&entryID=9676412'
@@ -42,7 +40,9 @@ description: >-
   sleep is something many of us are lacking.
 inLanguage: en
 inNav: false
+via: {}
 starred: false
+url: why-sleep-is-so-important-for-overall-health/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
