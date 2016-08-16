@@ -4,7 +4,7 @@
         <description><![CDATA[Mjrio]]></description>
         <link>http://custom.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Aug 2016 16:56:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2016 07:15:14 GMT</lastBuildDate>
         <atom:link href="http://custom.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[asdfasdfasf]]></title>
@@ -68,6 +68,13 @@
             <link>http://www.theverge.com/2015/11/5/9671564/lytro-immerge-light-field-vr-video-camera</link>
             <guid isPermaLink="false">bcdd8f33-d5c8-40d6-86d9-0044208a0585</guid>
             <pubDate>Sat, 30 Jul 2016 03:32:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Writing a React App with TypeScript]]></title>
+            <description><![CDATA[<article><h1>Writing a React App with TypeScript</h1><p>For this walkthrough we will still use webpack as our module bundler however now instead of Babel we will be using TypeScript as our transpiler. I'm going to use ts-loader for this example. There is a great writeup here from the author describing how to integrate TypeScript into a webpack workflow.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/dd676eb5288180859aaa467d8e869a33/noop.jpeg?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1*--lovgRTM29Fa8psv5GNPA.jpeg"></article>]]></description>
+            <link>http://custom.com/writing-a-react-app-with-typescript/index.html</link>
+            <guid isPermaLink="false">24f77fd8-7f11-4baf-a1c1-75214a380aee</guid>
+            <pubDate>Tue, 16 Aug 2016 07:15:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
