@@ -17,9 +17,6 @@ author:
   name: ddddddddd
 name: othrstss
 navigation:
-  - name: paasdfasdf1
-    id: dfd6416f-8b3a-4cce-9f16-209a583e5328
-    type: content
   - name: super ddduper
     url: 'https://github.com/facebook/immutable-js/issues/732'
     type: external
