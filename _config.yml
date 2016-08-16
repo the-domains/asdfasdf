@@ -22,5 +22,8 @@ navigation:
       top of you
     id: 10b16c53-e7de-42e5-9b71-4e49c1019e13
     type: content
+  - name: 'Drinks: Smoked Manhattan'
+    id: c6bfc4fa-6021-4e93-a452-7b6fe55a8d1a
+    type: content
 title: Mjrio
 description: marsch.js@gmail.co
