@@ -1,12 +1,10 @@
 ---
-datePublished: '2016-07-30T03:32:17.210Z'
+datePublished: '2016-08-16T08:41:47.617Z'
 sourcePath: >-
   _posts/2016-04-16-thinking-inside-the-box-prepd-reinvents-the-lunchbox-or-life.md
 inFeed: true
-isBasedOnUrl: >-
-  http://www.wallpaper.com/lifestyle/san-francisco-startup-prepd-pack-reinvents-the-lunchbox
 authors: []
-hasPage: false
+hasPage: true
 keywords:
   - prepd
   - pack
@@ -22,7 +20,7 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-07-16T03:50:21.921Z'
+dateModified: '2016-08-16T08:41:46.915Z'
 title: 'Thinking inside the box: Prepd reinvents the lunchbox.'
 app_links: []
 publisher:
@@ -38,7 +36,9 @@ description: >-
   $1 million.
 inLanguage: en
 inNav: false
+via: {}
 starred: false
+url: thinking-inside-the-box-prepd-reinvents-the-lunchbox/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
