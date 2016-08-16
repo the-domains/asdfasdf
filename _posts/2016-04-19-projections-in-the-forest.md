@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-16T08:41:19.172Z'
+datePublished: '2016-08-16T08:50:34.505Z'
 sourcePath: _posts/2016-04-19-projections-in-the-forest.md
 inFeed: true
 hasPage: true
@@ -9,7 +9,7 @@ author:
   - name: 3hund
     url: 'http://vimeo.com/3hund'
     avatar: {}
-dateModified: '2016-08-16T08:41:18.433Z'
+dateModified: '2016-08-16T08:50:33.843Z'
 title: Projections in the Forest
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/115082758'
