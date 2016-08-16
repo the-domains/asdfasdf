@@ -1,38 +1,62 @@
 ---
-datePublished: '2016-07-30T03:32:41.966Z'
-sourcePath: _posts/2016-04-16-best-of-ch-2015-instagram.md
-inFeed: true
-isBasedOnUrl: 'http://www.coolhunting.com/culture/best-of-ch-2015-instagram'
-hasPage: false
-keywords:
-  - art
-  - artist
-  - futurecraft
-  - zaha
-  - covent
-  - hadid
-  - leica
-  - g500
-  - tillon
-  - biennale
-related: []
-author: []
-dateModified: '2016-07-16T03:39:52.370Z'
+id: 7a53608a-396e-4d5b-9943-a68fdcc6e9db
+metadata:
+  id: 7a53608a-396e-4d5b-9943-a68fdcc6e9db
+  metadata:
+    datePublished: '2016-07-24T21:30:17.586Z'
+    sourcePath: _posts/2016-04-16-best-of-ch-2015-instagram.md
+    inFeed: true
+    isBasedOnUrl: 'http://www.coolhunting.com/culture/best-of-ch-2015-instagram'
+    hasPage: false
+    keywords:
+      - art
+      - artist
+      - futurecraft
+      - zaha
+      - covent
+      - hadid
+      - leica
+      - g500
+      - tillon
+      - biennale
+    related: []
+    author: []
+    via: {}
+    '@context': 'http://schema.org'
+    dateModified: '2016-07-24T21:30:17.586Z'
+    title: 'Best of CH 2015: Instagram'
+    '@type': MediaObject
+    app_links: []
+    publisher:
+      url: 'http://www.coolhunting.com'
+      name: Cool Hunting
+      favicon: 'http://assets.coolhunting.com/favicon.ico'
+      domain: www.coolhunting.com
+    description: >-
+      Four and a half years ago we joined Instagram and have posted over 2,500
+      images since. More than 99% of the photographs we share, we ourselves have
+      taken, and that's something we're quite proud of.
+    inLanguage: en
+    inNav: false
+  dateModified: '2016-07-24T21:41:22.441Z'
+dateModified: '2016-07-26T20:35:51.555Z'
 title: 'Best of CH 2015: Instagram'
-app_links: []
+datePublished: '2016-08-16T07:16:02.896Z'
+author: []
+hasPage: true
+description: >-
+  Four and a half years ago we joined Instagram and have posted over 2,500
+  images since. More than 99% of the photographs we share, we ourselves have
+  taken, and that's something we're quite proud of.
 publisher:
   url: 'http://www.coolhunting.com'
   name: Cool Hunting
   favicon: 'http://assets.coolhunting.com/favicon.ico'
   domain: www.coolhunting.com
-description: >-
-  Four and a half years ago we joined Instagram and have posted over 2,500
-  images since. More than 99% of the photographs we share, we ourselves have
-  taken, and that's something we're quite proud of.
-inLanguage: en
-inNav: false
+via: {}
+sourcePath: _posts/2016-04-16-best-of-ch-2015-instagram.md
 starred: false
-_context: 'http://schema.org'
+url: best-of-ch-2015-instagram/index.html
 _type: MediaObject
 
 ---
