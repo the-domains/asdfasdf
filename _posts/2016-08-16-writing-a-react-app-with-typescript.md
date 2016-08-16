@@ -53,8 +53,8 @@ app_links:
     namespace: google
     type: android
 title: Writing a React App with TypeScript
-datePublished: '2016-08-16T07:15:11.094Z'
-dateModified: '2016-08-08T16:23:41.408Z'
+datePublished: '2016-08-16T07:15:21.794Z'
+dateModified: '2016-08-08T16:23:33.102Z'
 via: {}
 starred: false
 sourcePath: _posts/2016-08-16-writing-a-react-app-with-typescript.md
