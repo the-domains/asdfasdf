@@ -39,9 +39,9 @@ metadata:
     inLanguage: en
     inNav: false
   dateModified: '2016-07-24T21:41:22.441Z'
-dateModified: '2016-08-16T08:46:07.504Z'
+dateModified: '2016-08-16T08:47:26.553Z'
 title: 'Best of CH 2015: Instagram'
-datePublished: '2016-08-16T08:46:08.270Z'
+datePublished: '2016-08-16T08:47:27.237Z'
 author: []
 hasPage: true
 description: >-
