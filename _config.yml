@@ -23,7 +23,7 @@ navigation:
   - name: p2
     id: cfc39499-8276-418e-9cbd-7cba8b8ed400
     type: content
-  - name: super duper
+  - name: super ddduper
     url: 'https://github.com/facebook/immutable-js/issues/732'
     type: external
 title: Mjrio
