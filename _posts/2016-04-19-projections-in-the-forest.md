@@ -1,16 +1,15 @@
 ---
-datePublished: '2016-07-30T03:32:17.171Z'
+datePublished: '2016-08-16T08:41:19.172Z'
 sourcePath: _posts/2016-04-19-projections-in-the-forest.md
 inFeed: true
-isBasedOnUrl: 'https://vimeo.com/115082758'
-hasPage: false
+hasPage: true
 keywords: []
 related: []
 author:
   - name: 3hund
     url: 'http://vimeo.com/3hund'
     avatar: {}
-dateModified: '2016-07-28T16:49:34.804Z'
+dateModified: '2016-08-16T08:41:18.433Z'
 title: Projections in the Forest
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/115082758'
@@ -53,6 +52,7 @@ description: >-
 inNav: false
 via: {}
 starred: false
+url: projections-in-the-forest/index.html
 _context: 'http://schema.org'
 _type: VideoObject
 
