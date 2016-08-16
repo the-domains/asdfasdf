@@ -4,7 +4,7 @@
         <description><![CDATA[Mjrio]]></description>
         <link>http://custom.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Aug 2016 08:42:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2016 08:42:29 GMT</lastBuildDate>
         <atom:link href="http://custom.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[asdfasdfasf]]></title>
@@ -19,6 +19,13 @@
             <link>http://custom.com/projections-in-the-forest/index.html</link>
             <guid isPermaLink="false">dfd6416f-8b3a-4cce-9f16-209a583e5328</guid>
             <pubDate>Tue, 16 Aug 2016 08:41:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Thinking inside the box: Prepd reinvents the lunchbox.]]></title>
+            <description><![CDATA[<article><h1>Thinking inside the box: Prepd reinvents the lunchbox.</h1><p>Packing attention to detail, intelligent design and delicious food into lunchtime is San Francisco-based team Prepd, founded by Chris Place and Will Matters. Their creation, 'Prepd Pack', is a modern take on the classic lunchbox, launched in January 2016 via a Kickstarter campaign that raised over $1 million.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/53a022f82e153fb6ebb5204fcc6e09944b676b68.jpg"></article>]]></description>
+            <link>http://custom.com/thinking-inside-the-box-prepd-reinvents-the-lunchbox/index.html</link>
+            <guid isPermaLink="false">ea2ce25c-4ae1-41b1-be31-9f8fb434ec5f</guid>
+            <pubDate>Tue, 16 Aug 2016 08:41:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Drinks: Smoked Manhattan]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Fuseproject's Three-Port Zolt Charger</h1><p>Launching today, the Zolt Laptop Charger aims to make powering all your devices faster, easier and much less cumbersome. The charger-designed by fuseproject -is a sleek, lightweight device with three USB ports. This translates to charging three devices (laptop, phone, smartwatch, portable phone-charger, you name it) all at once-while only using one power outlet.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/02ed67c6c41fa59f72aa593179a73a1443f9218c.jpg"></article>]]></description>
             <link>http://www.coolhunting.com/tech/yves-behar-simultaneous-laptop-charger-zolt</link>
             <guid isPermaLink="false">375791be-eaed-47cf-9e81-88e96dfd85fb</guid>
-            <pubDate>Sat, 30 Jul 2016 03:32:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Interview: Artist Ryan McGinness on Designing for Hennessy]]></title>
-            <description><![CDATA[<article><h1>Interview: Artist Ryan McGinness on Designing for Hennessy</h1><p>Despite the fact that he works across multiple artistic mediums, it's very easy to discern the work of NYC-based artist Ryan McGinness. In addition to his iconic symbol-driven body of work, his experimental Instagram and the depths of his oftentimes ornate paintings, McGinness recently took to designing a special limited edition bottle for luxury cognac brand Hennessy.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aeb47f82d947e9f731a4c3888493b9cd250578b3.png"></article>]]></description>
-            <link>http://www.coolhunting.com/design/ryan-mcginness-hennessy-bottle</link>
-            <guid isPermaLink="false">09141034-7921-4fa3-97f4-05f5d35c690d</guid>
             <pubDate>Sat, 30 Jul 2016 03:32:17 GMT</pubDate>
         </item>
     </channel>
