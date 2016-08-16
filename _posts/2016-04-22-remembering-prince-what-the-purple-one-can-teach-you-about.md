@@ -58,9 +58,9 @@ metadata:
     Red Corvette.
   inLanguage: en
   inNav: false
-dateModified: '2016-08-16T07:31:35.000Z'
+dateModified: '2016-08-16T08:46:29.005Z'
 title: 'Remembering Prince: What The Purple One Can Teach You About Creativity'
-datePublished: '2016-08-16T07:45:18.912Z'
+datePublished: '2016-08-16T08:46:29.593Z'
 author:
   - name: Linda Lacina
     url: 'https://www.entrepreneur.com/author/linda-lacina'
