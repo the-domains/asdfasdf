@@ -1,9 +1,5 @@
 ---
-datePublished: '2016-08-16T13:01:03.690Z'
-sourcePath: _posts/2016-04-16-best-of-ch-2015-instagram.md
-hasPage: true
-author: []
-via: {}
+id: 7a53608a-396e-4d5b-9943-a68fdcc6e9db
 metadata:
   id: 7a53608a-396e-4d5b-9943-a68fdcc6e9db
   metadata:
@@ -43,22 +39,25 @@ metadata:
     inLanguage: en
     inNav: false
   dateModified: '2016-07-24T21:41:22.441Z'
-dateModified: '2016-08-16T07:31:34.999Z'
+dateModified: '2016-08-20T20:32:36.896Z'
 title: 'Best of CH 2015: Instagram'
-id: 7a53608a-396e-4d5b-9943-a68fdcc6e9db
+datePublished: '2016-08-20T20:32:37.943Z'
+author: []
+hasPage: true
+description: >-
+  Four and a half years ago we joined Instagram and have posted over 2,500
+  images since. More than 99% of the photographs we share, we ourselves have
+  taken, and that's something we're quite proud of.
 publisher:
   url: 'http://www.coolhunting.com'
   name: Cool Hunting
   favicon: 'http://assets.coolhunting.com/favicon.ico'
   domain: www.coolhunting.com
-description: asdfsfsf
+via: {}
+sourcePath: _posts/2016-04-16-best-of-ch-2015-instagram.md
 starred: false
 url: best-of-ch-2015-instagram/index.html
 _type: MediaObject
 
 ---
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ba4db50512b8a051afebdafd36444e43d96e6161.jpg" /><h1>Best of CH 2015: Instagram</h1><p>Four and a half years ago we joined Instagram and have posted over 2,500 images since. More than 99% of the photographs we share, we ourselves have taken, and that's something we're quite proud of.</p></article>
-
-     class Editor extends React.Component { } 
-
-asdfsfsf
+<article style=""><h1>Best of CH 2015: Instagram</h1><p>Four and a half years ago we joined Instagram and have posted over 2,500 images since. More than 99% of the photographs we share, we ourselves have taken, and that's something we're quite proud of.</p><img src="http://assets.coolhunting.com/coolhunting/2015/12/21/large_Best-of-CH-2015-Instagram.jpg" /></article>
