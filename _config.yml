@@ -13,6 +13,11 @@ color:
     - '#BDF271'
     - '#FFFFA6'
 layout_spectrum: 0.8835618675220758
+profiles:
+  - id: 7a53608a-396e-4d5b-9943-a68fdcc6e9db
+    name: 'Best of CH 2015: Instagram'
+    type: content
+    rel: footer
 author:
   name: ddddddddd
 name: othrstss
