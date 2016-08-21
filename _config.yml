@@ -18,13 +18,13 @@ profiles:
     name: 'Best of CH 2015: Instagram'
     type: content
     rel: footer
-  - url: 'http://asdfasdf.com'
-    name: asdvsdf
-    type: external
-    rel: footer
   - id: d3ce2425-23ad-4440-85b6-e1bbfadc1d5c
     name: 'Drinks: Smoked Manhattan'
     type: content
+    rel: footer
+  - url: 'http://asdfasdf.com'
+    name: asdvsdf
+    type: external
     rel: footer
 author:
   name: ddddddddd
