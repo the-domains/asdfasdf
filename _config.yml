@@ -22,6 +22,10 @@ profiles:
     name: asdvsdf
     type: external
     rel: footer
+  - id: d3ce2425-23ad-4440-85b6-e1bbfadc1d5c
+    name: 'Drinks: Smoked Manhattan'
+    type: content
+    rel: footer
 author:
   name: ddddddddd
 name: othrstss
