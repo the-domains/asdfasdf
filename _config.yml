@@ -13,19 +13,7 @@ color:
     - '#BDF271'
     - '#FFFFA6'
 layout_spectrum: 0.8835618675220758
-profiles:
-  - id: 7a53608a-396e-4d5b-9943-a68fdcc6e9db
-    name: 'Best of CH 2015: Instagram'
-    type: content
-    rel: footer
-  - id: d3ce2425-23ad-4440-85b6-e1bbfadc1d5c
-    name: 'Drinks: Smoked Manhattan'
-    type: content
-    rel: footer
-  - url: 'http://asdfasdf.com'
-    name: asdvsdf
-    type: external
-    rel: footer
+profiles: []
 author:
   name: ddddddddd
 name: othrstss
