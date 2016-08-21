@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-16T08:40:40.223Z'
+datePublished: '2016-08-20T20:38:16.052Z'
 sourcePath: _posts/2016-04-16-drinks-smoked-manhattan.md
 inFeed: true
 authors: []
@@ -19,7 +19,7 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-08-16T08:40:39.620Z'
+dateModified: '2016-08-20T20:38:15.530Z'
 title: 'Drinks: Smoked Manhattan'
 app_links: []
 publisher:
