@@ -18,6 +18,10 @@ profiles:
     name: 'Best of CH 2015: Instagram'
     type: content
     rel: footer
+  - url: 'http://asdfasdf.com'
+    name: asdvsdf
+    type: external
+    rel: footer
 author:
   name: ddddddddd
 name: othrstss
