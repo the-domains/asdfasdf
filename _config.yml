@@ -18,11 +18,11 @@ author:
   name: ddddddddd
 name: othrstss
 navigation:
-  - name: asdfasdfa1
-    id: ef7797ba-0e6c-405d-bb62-03af0afd3ef5
-    type: content
   - name: 'Interview: Artist Ryan McGinness on Designing for Hennessy'
     id: 7dd770b1-ba59-4bc6-9949-6398fdbf9567
+    type: content
+  - name: asdfasdfa1
+    id: ef7797ba-0e6c-405d-bb62-03af0afd3ef5
     type: content
 title: "\uD83D\uDE02Mdd\uD83D\uDE02jrio"
 description: marsch.js@gmail.co
