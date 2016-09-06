@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-09-02T18:07:39.087Z'
+datePublished: '2016-09-02T18:07:41.220Z'
 sourcePath: _posts/2016-04-15-mighty-audios-portable-player.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d091dcaf-914c-4ee2-a5c1-f9510c5d5a7a.png
 author: []
 via: {}
-dateModified: '2016-09-02T18:07:38.207Z'
+dateModified: '2016-09-02T18:07:40.572Z'
 title: ''
 id: 3324cd9d-d896-455d-a4bc-3fd00dc65068
 publisher: {}
